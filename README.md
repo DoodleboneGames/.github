@@ -1,3 +1,3 @@
-# ShinyHat Studios
+# .github
 
-The coolest game studio this side of the time-out corner.
+idk 
